@@ -1,7 +1,3 @@
-# Meu simples README
-
-Aqui deixo um breve resumo sobre me, e o que venho aprendedo.;
-
 ## Social
 
  - [instagram](https://www.instagram.com/edivan_sillva/)
