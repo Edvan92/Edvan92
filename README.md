@@ -4,10 +4,10 @@
 Aqui deixo um breve resumo sobre me, e o que venho aprendedo.;
 
 ## Social
-
+[![Linkedin](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edivan_sillva/)
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:https://mail.yahoo.com/d/folders/1?.lang=pt-BR)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:https://mail.yahoo.com/d/folders/1?.lang=pt-BR)
 
  
 ## 🚀 Sobre Mim.
