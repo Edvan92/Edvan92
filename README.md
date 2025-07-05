@@ -19,6 +19,6 @@ Sou estudante de Engenharia de Software, atualmente no segundo semestre. Tenho u
 ##Git Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Edvan92&theme=transparent)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edvan92&layout=compact&bg_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edvan92&layout=donut&bg_color=000)
 
 
