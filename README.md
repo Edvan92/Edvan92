@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Software, atualmente no segundo semestre. Tenho u
 ## Git Stats
 
 <a href="https://github.com/Edvan92/git.io/streak-stats">
-  <img height=200 align="" src="https://streak-stats.demolab.com?user=Edvan92&theme=transparent"/>
+  <img height=100 align="" src="https://streak-stats.demolab.com?user=Edvan92&theme=transparent"/>
 </a>
 <a href="https://github.com/Edvan92/github-readme-stats">
   <img height=200 align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvan92&layout=donut&bg_color=000"/>
