@@ -17,5 +17,6 @@ Sou estudante de Engenharia de Software, atualmente no segundo semestre. Tenho u
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Edvan92&theme=transparent)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
