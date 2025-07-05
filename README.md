@@ -16,7 +16,7 @@ Sou estudante de Engenharia de Software, atualmente no segundo semestre. Tenho u
 ## 
 I am a Software Engineering student, currently in my second semester. I am strongly committed to my learning and am always willing to learn and help. I seek creative solutions to solve problems and am focused on a career in front-end, studying the main languages ​​for web development. I am very interested in exploring new technologies and constantly expanding my knowledge.
 
-##  Minhas Skills
+##  Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
