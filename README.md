@@ -3,7 +3,7 @@
 
 Breve resumo sobre mim e o que venho aprendedo:
 
-Brief summary about me and what I learned
+Brief summary about me and what I learned.
 
 ## 💻 Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
