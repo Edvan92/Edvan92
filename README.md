@@ -12,7 +12,7 @@ Brief summary about me and what I learned.
 
  
 ## 🚀 Sobre Mim.
-Sou estudante de Engenharia de Software, atualmente no segundo semestre. Tenho um forte compromisso com meu aprendizado e estou sempre disposto a aprender e ajudar. Busco soluções criativas para a resolução de problemas e estou focado na carreira de front-end, estudando as principais linguagens para o desenvolvimento web. Tenho grande interesse em explorar novas tecnologias e expandir constantemente meus conhecimentos.
+Sou estudante de Engenharia de Software(pretendendo mudar para ADS), atualmente no segundo semestre. Tenho um forte compromisso com meu aprendizado e estou sempre disposto a aprender e ajudar. Busco soluções criativas para a resolução de problemas e estou focado na carreira de front-end, estudando as principais linguagens para o desenvolvimento web. Tenho grande interesse em explorar novas tecnologias e expandir constantemente meus conhecimentos.
 ## 
 I am a Software Engineering student, currently in my second semester. I am strongly committed to my learning and am always willing to learn and help. I seek creative solutions to solve problems and am focused on a career in front-end, studying the main languages ​​for web development. I am very interested in exploring new technologies and constantly expanding my knowledge.
 
