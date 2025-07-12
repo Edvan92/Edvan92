@@ -5,6 +5,7 @@ Breve resumo sobre mim e o que venho aprendedo:
 
 Brief summary about me and what I learned.
 
+## 🚀 <Sobre Mim></About Me >
 ## 💻 <social></Social>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edivan_sillva/)
